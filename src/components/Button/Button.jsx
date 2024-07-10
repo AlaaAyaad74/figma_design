@@ -26,3 +26,4 @@ function Button({ text, type, path, color }) {
 }
 
 export default Button;
+/***update */
